@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PersonalJuanMc/kohls-admin-executor/refs/heads/main/source")) ()
